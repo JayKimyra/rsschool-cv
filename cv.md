@@ -6,7 +6,7 @@
 
 4.I have experience programming in Python in the field of statistics.
 
-5.Participation in Hackathons: HackUniversity,</beCoder> (DataScience winner).
+5.Participation in Hackathons: HackUniversity, </beCoder> (DataScience winner).
 
 6.Courses on https://stepik.org/ with perfect certificate: Python programming, Basics of statistics.
 
