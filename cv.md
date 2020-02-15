@@ -6,8 +6,8 @@
 
 4. I have experience programming in Python in the field of statistics.
 
-5. Participation in Hackathons: HackUniversity, .
+5. Participation in Hackathons: HackUniversity, </beCoder>(DataScinece).
 
-6. Courses on https://stepik.org/: Python programming, Basics of statistics.
+6. Courses on https://stepik.org/ with perfect certificate: Python programming, Basics of statistics.
 
 7. Basic English (Russian University level)
